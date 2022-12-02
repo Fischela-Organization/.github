@@ -1,0 +1,1 @@
+RealIncom is a Repo that contains the code, Backend(smart contract, Subgraphs), frontend(nexjs), mobile app(react-native), RealIncom is a marketplace where nft's with true value with income Generation capilities are sold. This NFt's can now be used as loan for loan seekers to acquire loan in the loan marketplace.
